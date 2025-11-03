@@ -3,6 +3,28 @@
 
 Students and graduates in the Boston/Cambridge area face a time-consuming challenge: identifying biomedical research labs that align with their skills and interests for potential "cold-call" employment or academic inquiries. This project proposes the **Boston Biomed Lab Matcher**, an intelligent bot designed to solve this problem. The bot will maintain a comprehensive database of biomedical labs, institutes, and departments by systematically scraping and consolidating data from major Boston/Cambridge institutions (including Harvard, MIT, BU, Tufts, and their affiliated research institutes). A user will upload their resume (CV), which the bot will analyze to extract key skills, research interests, and methodologies. The system will then match the user's profile against the lab database to generate a ranked list of "best-fit" labs. As a final, critical step, the bot will provide an AI-powered assistant to help the user **tailor their resume and draft a compelling, lab-specific "cold-call" email** for each suggested opportunity.
 
+Based on recent 2024 industry reports, here is the estimated number of bio-related jobs in the Boston/Cambridge area.
+
+While most official reports list data for the entire state, a reliable estimate for just the cities of **Boston and Cambridge is approximately 80,000 bio-related jobs.**
+
+This estimate is based on the most recent statewide employment data from 2024 and key industry investment figures.
+
+### 📈 How This Estimate Is Calculated
+
+1.  **Statewide Total:** The Massachusetts Biotechnology Education Foundation (MassBioEd) and other sources report a total of **143,142 life sciences jobs** in Massachusetts in 2024.
+
+2.  **Local Concentration:** A precise job count for just Boston and Cambridge isn't published. However, we can use 2024 venture capital (VC) funding as a strong proxy for job concentration.
+    * In the first half of 2024, **56% of all life sciences VC funding** in Massachusetts went to companies located in Boston (21%) and Cambridge (35%).
+
+3.  **Calculation:** 56% of the 143,142 statewide jobs is approximately **80,160 jobs**.
+
+### 🔬 Key Context
+
+* **The Hub of the Hub:** Boston and Cambridge are the undisputed epicenter of the state's life sciences industry. Key data points from 2023-2024 confirm this:
+    * **R&D Growth:** In 2023, Boston's Seaport district (within Suffolk County) added more R&D jobs than any other area in the Commonwealth.
+    * **Lab Space:** The vast majority of Massachusetts's lab space is concentrated in these two cities. In 2024, lab vacancy rates were 22.9% in Cambridge and 38.3% in Boston, reflecting the massive physical footprint of the industry.
+* **Biopharma Subset:** A large portion of these roles are in "biopharma" (research, development, and manufacturing of drugs). In 2024, Massachusetts had **117,108 biopharma jobs** statewide, and the majority of these are concentrated in the Boston/Cambridge area.
+* **Current Market:** The job market has slowed significantly from its peak in 2021-2022. Reports from 2024 and 2025 show that job growth has flattened, and the industry has seen a wave of layoffs, primarily centered in Cambridge and Boston.
 -----
 
 ### **Requirements Document: Boston Biomed Lab Matcher**
