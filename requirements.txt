@@ -1,0 +1,4 @@
+streamlit==1.39.0
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+pandas>=2.2.2
